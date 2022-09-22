@@ -1,5 +1,5 @@
 # Demo_Project
 
-By: Cody
+By: Kevin & Cody
 
 This is a project to demo git stuff!
