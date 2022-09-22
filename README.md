@@ -2,4 +2,4 @@
 
 By: Kevin & Cody
 
-This is a project to demo git stuff
+This is a project to demo git stuff!
